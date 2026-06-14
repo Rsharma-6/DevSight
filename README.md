@@ -7,9 +7,7 @@ DevSight ingests CI/CD and application failures, groups them into searchable inc
 It currently monitors **CodeRome 2.0**, a distributed AI-powered collaborative coding and online judge platform.
 
 <!-- TODO: Replace with a real screenshot or GIF of the dashboard. This is the single most important thing on this page. -->
-![DevSight Dashboard](docs/demo.gif)
-
-> **Build status legend:** ✅ built · 🔜 planned. Every claim below is tagged so this README always matches the actual implementation. Remove a 🔜 only when the code is real.
+![DevSight Dashboard](docs/demo.gif)>
 
 ---
 
@@ -225,7 +223,3 @@ Deliberately deferred to keep the MVP focused:
 - Agentic remediation workflows
 
 ---
-
-## Design Notes
-
-This README is the quick tour. The full design document — problem analysis, detailed architecture, RAG workflow, and scope decisions — lives in [`DESIGN.md`](DESIGN.md).
